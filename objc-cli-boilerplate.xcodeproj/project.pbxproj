@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		759E3BEC25C4309300B77ED4 /* objc-cli-boilerplate */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "objc-cli-boilerplate"; sourceTree = BUILT_PRODUCTS_DIR; };
 		759E3BEF25C4309300B77ED4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		759E3BF725C439D600B77ED4 /* main.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = main.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				759E3BEF25C4309300B77ED4 /* main.m */,
+				759E3BF725C439D600B77ED4 /* main.h */,
 			);
 			path = "objc-cli-boilerplate";
 			sourceTree = "<group>";
